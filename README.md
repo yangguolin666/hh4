@@ -23,8 +23,8 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 风向：{{wind_dir.DATA}} 
 
-今天是我们认识的第{{love_day.DATA}}天 ❤❤❤
-记得要乖乖喝水哟虹虹❤❤❤
+今天是我们认识的第{{love_day.DATA}}天 ❤
+记得要乖乖喝水哟虹虹❤
 
 {{birthday1.DATA}} ❤
 {{birthday2.DATA}}❤
